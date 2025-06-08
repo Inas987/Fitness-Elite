@@ -1,0 +1,396 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "1760",
+      "username": "ZP",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": "c6ed",
+      "username": "a",
+      "password": "a",
+      "role": "admin"
+    },
+    {
+      "id": "6a4a",
+      "username": "b",
+      "password": "b",
+      "role": "user"
+    },
+    {
+      "id": "091e",
+      "username": "c",
+      "password": "c",
+      "role": "user"
+    },
+    {
+      "id": "85ee",
+      "username": "d",
+      "password": "d",
+      "role": "admin"
+    },
+    {
+      "id": "b693",
+      "username": "e",
+      "password": "e",
+      "role": "admin"
+    },
+    {
+      "id": "5ca7",
+      "username": "l",
+      "password": "l",
+      "role": "admin"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "1",
+      "day": "Ponedjeljak",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "2",
+      "day": "Ponedjeljak",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "3",
+      "day": "Ponedjeljak",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "4",
+      "day": "Ponedjeljak",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "5",
+      "day": "Ponedjeljak",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "6",
+      "day": "Ponedjeljak",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "7",
+      "day": "Ponedjeljak",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "8",
+      "day": "Ponedjeljak",
+      "time": "21:00 – 23:00",
+      "content": ""
+    },
+    {
+      "id": "9",
+      "day": "Utorak",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "10",
+      "day": "Utorak",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "11",
+      "day": "Utorak",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "12",
+      "day": "Utorak",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "13",
+      "day": "Utorak",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "14",
+      "day": "Utorak",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "15",
+      "day": "Utorak",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "16",
+      "day": "Utorak",
+      "time": "21:00 – 23:00",
+      "content": ""
+    },
+    {
+      "id": "17",
+      "day": "Srijeda",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "18",
+      "day": "Srijeda",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "19",
+      "day": "Srijeda",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "20",
+      "day": "Srijeda",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "21",
+      "day": "Srijeda",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "22",
+      "day": "Srijeda",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "23",
+      "day": "Srijeda",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "24",
+      "day": "Srijeda",
+      "time": "21:00 – 23:00",
+      "content": ""
+    },
+    {
+      "id": "25",
+      "day": "Četvrtak",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "26",
+      "day": "Četvrtak",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "27",
+      "day": "Četvrtak",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "28",
+      "day": "Četvrtak",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "29",
+      "day": "Četvrtak",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "30",
+      "day": "Četvrtak",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "31",
+      "day": "Četvrtak",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "32",
+      "day": "Četvrtak",
+      "time": "21:00 – 23:00",
+      "content": ""
+    },
+    {
+      "id": "33",
+      "day": "Petak",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "34",
+      "day": "Petak",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "35",
+      "day": "Petak",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "36",
+      "day": "Petak",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "37",
+      "day": "Petak",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "38",
+      "day": "Petak",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "39",
+      "day": "Petak",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "40",
+      "day": "Petak",
+      "time": "21:00 – 23:00",
+      "content": ""
+    },
+    {
+      "id": "41",
+      "day": "Subota",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "42",
+      "day": "Subota",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "43",
+      "day": "Subota",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "44",
+      "day": "Subota",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "45",
+      "day": "Subota",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "46",
+      "day": "Subota",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "47",
+      "day": "Subota",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "48",
+      "day": "Subota",
+      "time": "21:00 – 23:00",
+      "content": ""
+    },
+    {
+      "id": "49",
+      "day": "Nedjelja",
+      "time": "07:00 – 09:00",
+      "content": ""
+    },
+    {
+      "id": "50",
+      "day": "Nedjelja",
+      "time": "09:00 – 11:00",
+      "content": ""
+    },
+    {
+      "id": "51",
+      "day": "Nedjelja",
+      "time": "11:00 – 13:00",
+      "content": ""
+    },
+    {
+      "id": "52",
+      "day": "Nedjelja",
+      "time": "13:00 – 15:00",
+      "content": ""
+    },
+    {
+      "id": "53",
+      "day": "Nedjelja",
+      "time": "15:00 – 17:00",
+      "content": ""
+    },
+    {
+      "id": "54",
+      "day": "Nedjelja",
+      "time": "17:00 – 19:00",
+      "content": ""
+    },
+    {
+      "id": "55",
+      "day": "Nedjelja",
+      "time": "19:00 – 21:00",
+      "content": ""
+    },
+    {
+      "id": "56",
+      "day": "Nedjelja",
+      "time": "21:00 – 23:00",
+      "content": ""
+    }
+  ]
+}
