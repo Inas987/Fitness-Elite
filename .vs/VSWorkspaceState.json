@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Header",
+    "\\src\\components\\Hero",
+    "\\src\\components\\Kontakt",
+    "\\src\\components\\Maps",
+    "\\src\\components\\Planovi",
+    "\\src\\components\\Programi",
+    "\\src\\components\\Razlozi"
+  ],
+  "SelectedNode": "\\src\\components\\Razlozi\\Razlozi.jsx",
+  "PreviewInSolutionExplorer": false
+}
