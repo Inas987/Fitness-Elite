@@ -39,3 +39,64 @@ Struktura projekta ----->
 │── package.json   # Podešavanja backend-a
 
 //////////////////////////////////////
+
+Uloge korisnika ->
+
+✅ Registracija i autentifikacija
+
+Korisnici mogu kreirati nalog, prijaviti se i resetovati lozinku.
+
+✅ Lokacija
+
+Korisnici mogu direktno preko google mapa vidjeti našu tačnu lokaciju
+
+✅ Kontaktiranje
+
+Korisnici mogu direktno kontaktirati osoblje
+
+✅ Raspored
+
+Korisnici mogu u bilo kojem trenutku pristupiti rasporedu treninga
+
+Doprinosi članova tima - 
+Anes i Inas - dizajn stranice, palete boja, tabelarni prikazi, animacije
+Zijad - login/register, admin panel, mapa
+🎨 Dizajn (Paleta boja & Fontovi)
+Projekt koristi modernu, sportsku paletu boja koja podstiče motivaciju:
+
+🎨 Paleta boja:
+
+🔵 Plava (#309afe) – tema teretane
+
+⚫ Tamno siva (#464D53) – pozadina i kontrast.
+
+⚫ Siva (#9c9c9c) – pozadina i kontrast.   
+
+🔴  Narandzasta (#ff6131) - tema teretane
+
+⚪ Bela (#F1F1F1) – čistoća i preglednost.
+
+Upute za pokretanje aplikacije ->
+Prije nego što pokrenete aplikaciju morate imati instaliran node.js
+https://nodejs.org/en
+
+Nakon što ga instaliras provjeri da li je pravilno instaliran :
+node -v   # Provera verzije Node.js
+npm -v    # Provera verzije npm
+
+Nakon provjere kloniraj projekat:
+git clone https://github.com/Inas987/Fitness-Elite.git
+cd Fitness-Elite
+
+Instaliraj npm paket:
+npm install
+
+Pokreni aplikaciju:
+npm start
+
+Slike projekta : 
+https://imgur.com/a/wx0Y0os
+
+
+
+
