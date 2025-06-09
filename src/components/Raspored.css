@@ -1,0 +1,40 @@
+.raspored-container {
+  padding: 2rem;
+  background: #f8f9fa;
+}
+
+.raspored-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.raspored-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.raspored-table th,
+.raspored-table td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+.time-col {
+  font-weight: bold;
+  background: #e9ecef;
+}
+
+textarea {
+  width: 100%;
+  min-height: 60px;
+  resize: vertical;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.readonly-cell {
+  white-space: pre-wrap;
+  padding: 0.5rem;
+}
