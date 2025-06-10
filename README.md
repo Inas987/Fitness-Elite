@@ -74,15 +74,15 @@ Projekt koristi modernu, sportsku paletu boja koja podstiče motivaciju:
 
 🔴  Narandzasta (#ff6131) - tema teretane
 
-⚪ Bela (#F1F1F1) – čistoća i preglednost.
+⚪ Bijela (#F1F1F1) – čistoća i preglednost.
 
 Upute za pokretanje aplikacije ->
 Prije nego što pokrenete aplikaciju morate imati instaliran node.js
 https://nodejs.org/en
 
 Nakon što ga instaliras provjeri da li je pravilno instaliran :
-node -v   # Provera verzije Node.js
-npm -v    # Provera verzije npm
+node -v   # Provjera verzije Node.js
+npm -v    # Provjera verzije npm
 
 Nakon provjere kloniraj projekat:
 git clone https://github.com/Inas987/Fitness-Elite.git
